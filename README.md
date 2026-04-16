@@ -27,3 +27,28 @@ Features Implemented
 
 ### 🔹 Backend Setup
 1. Navigate to backend folder:
+2.Run the Spring Boot application:
+cd backend/tod0
+mvn spring-boot:run
+---
+
+Frontend Setup
+1. Navigate to frontend folder:
+cd frontend/todo-frontend
+2. Install dependencies:
+npm install
+3. Start React app:
+npm start
+
+
+---
+Project Structure
+
+todo-fullstack-app/
+├── backend/
+└── frontend/
+
+
+---
+ Status
+✔ Completed basic full-stack CRUD To-Do application
