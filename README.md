@@ -21,16 +21,14 @@ Features Implemented
 - Store tasks in MySQL database
 - REST API integration between frontend and backend
 
----
 
-## ⚙️ Local Setup Instructions
-
-### 🔹 Backend Setup
+Local Setup Instructions
+Backend Setup
 1. Navigate to backend folder:
 2.Run the Spring Boot application:
 cd backend/tod0
 mvn spring-boot:run
----
+
 
 Frontend Setup
 1. Navigate to frontend folder:
@@ -41,14 +39,11 @@ npm install
 npm start
 
 
----
 Project Structure
 
 todo-fullstack-app/
-├── backend/
-└── frontend/
+backend
+frontend
 
-
----
  Status
-✔ Completed basic full-stack CRUD To-Do application
+Completed basic full-stack CRUD To-Do application
