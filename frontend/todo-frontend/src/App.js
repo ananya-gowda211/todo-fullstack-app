@@ -65,7 +65,7 @@ function App() {
   return (
     <div className="app">
       <div className="card">
-        <h1>✨ To-Do List</h1>
+        <h1>To-Do List</h1>
 
         {/* 🔍 Search */}
         <input
